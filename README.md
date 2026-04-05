@@ -44,6 +44,7 @@ Map：[...]をクリック　U16-AsahikawaProcon-Server/Maps/ の中から好き
 サーバーのCOOLの[待機開始]をクリック<br>
 ※ネットワークのアクセスを許可のような画面が出てきますが、[許可]して続けてください<br>
 フォルダの中で実行したいファイルを「ドラッグ」→「★実行②♪♪♪（ここにファイルを落とす）.bat」の上で離す<br>
+<img width="1734" height="927" alt="スクリーンショット 2026-04-05 204747" src="https://github.com/user-attachments/assets/ade592eb-2c6d-4526-a73d-1e6349b0bbe1" /> <br>
 黒い画面に c と入力してエンター！<br>
 HOTを[自動くん]に切り替える<br>
 [ゲーム開始]をクリック！
