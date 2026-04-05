@@ -35,10 +35,10 @@ AnimationTime.ini：サーバーの設定（消さないで！） <br>
 ※不明な発行元と表示されますが、実行してOKです。<br>
 <img width="540" height="432" alt="image" src="https://github.com/user-attachments/assets/2b778cfc-cea8-4f39-b3e2-61fc4f2a751e" />
 この画面が出ればOKです。<br>
-COOL/HOT：このゲームの先行/後攻<br>
-TCPユーザー▾：自動くん/ManualClientに切り替えられます。<br>
-　自動くんは動かずその場にいてくれるプログラムです。<br>
-Map：[...]をクリック　U16-AsahikawaProcon-Server/Maps/ の中から好きなマップを選べます。
+|COOL/HOT：このゲームの先行/後攻<br>
+|TCPユーザー▾：自動くん/ManualClientに切り替えられます。<br>
+|　自動くんは動かずその場にいてくれるプログラムです。<br>
+|Map：[...]をクリック　U16-AsahikawaProcon-Server/Maps/ の中から好きなマップを選べます。
 
 2.プログラムを実行する<br>
 サーバーのCOOLの[待機開始]をクリック<br>
