@@ -50,6 +50,7 @@
 <img width="1734" height="413" alt="スクリーンショット 2026-04-05 213911" src="https://github.com/user-attachments/assets/2f8a0db6-266a-4629-9d98-da3b284eb834" /> <br>
 ・HOTを[自動くん]に切り替える<br>
 <img width="540" height="450" alt="スクリーンショット 2026-04-05 213937" src="https://github.com/user-attachments/assets/5aa3e4fd-7227-475e-aeb3-33371790ceef" /> <br>
+・Mapの[...]をクリック
 ・[ゲーム開始]をクリック！
 
 3.確認<br>
