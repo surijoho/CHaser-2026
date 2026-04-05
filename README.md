@@ -48,6 +48,7 @@
 <img width="1734" height="413" alt="スクリーンショット 2026-04-05 204747" src="https://github.com/user-attachments/assets/422fbc6e-6640-4fff-85fc-cb68f4ba7861" /> <br>
 ・黒い画面に c と入力してエンター！<br>
 ・HOTを[自動くん]に切り替える<br>
+<img width="540" height="450" alt="スクリーンショット 2026-04-05 213937" src="https://github.com/user-attachments/assets/5aa3e4fd-7227-475e-aeb3-33371790ceef" /> <br>
 ・[ゲーム開始]をクリック！
 
 3.確認<br>
